@@ -35,7 +35,7 @@ if(isset($_POST['submit50']))
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-  <title>My Travel - My memories</title>
+  <title>MyTravel - My memories</title>
   <meta name="description" content="Traveller">
   <meta name="author" content="WebThemez">
 
@@ -125,7 +125,7 @@ if(isset($_POST['submit50']))
     <div class="container">
       <nav class="navbar navbar-inverse" role="navigation">
         <div class="navbar-header adeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
-          <a href="#" class="navbar-brand scroll-top logo"><b>Traveller</b></a>
+          <a href="#" class="navbar-brand scroll-top logo"><b>MyTravel</b></a>
           <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>

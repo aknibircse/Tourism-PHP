@@ -120,7 +120,7 @@ include('includes/config.php');
               <p><b>Features</b> <?php echo htmlentities($result->PackageFetures);?></p>
             </div>
             <div class="col-md-3 room-right wow fadeInRight animated" data-wow-delay=".5s">
-              <h5>USD <?php echo htmlentities($result->PackagePrice);?></h5>
+              <h5>BDT <?php echo htmlentities($result->PackagePrice);?></h5>
               <a href="package_details.php?pkgid=<?php echo htmlentities($result->PackageId);?>" class="view">Details</a>
             </div>
             <div class="clearfix"></div>
@@ -332,7 +332,7 @@ include('includes/config.php');
       <div class="col-sm-12 col-md-4">
         <h4>Address:</h4>
         <address>
-          Arnob Company<br>
+          Bivu Company<br>
           12th, street<br>
           Luthuli Avenue, California
           <br>

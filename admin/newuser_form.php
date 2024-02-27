@@ -106,8 +106,9 @@ if(!empty($_POST["fullname"])) {
             <div class="form-group col-md-6">
                 <select class="form-control"   name="dignity"  id="dignity"  required>
                     <option value="">Select permisions</option>
-                    <option value="Admin">Admin</option>
                     <option value="User">User</option>
+                    <option value="Admin">Admin</option>
+                    <option value="User">Organizer</option>
                 </select>
             </div>
             <div class="form-group col-md-6">

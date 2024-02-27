@@ -135,9 +135,9 @@ if(isset($_POST['submit']))
                        </div>
                      </div>
                      <div class="form-group col-md-6 pl-md-0">
-                      <label class="col-sm-12 pl-0 pr-0">Price in USD</label>
+                      <label class="col-sm-12 pl-0 pr-0">Price in BDT</label>
                       <div class="col-sm-12 pl-0 pr-0">
-                        <input type="text" class="form-control" name="packageprice" id="packageprice" placeholder=" Price is USD" required>
+                        <input type="text" class="form-control" name="packageprice" id="packageprice" placeholder=" Price is BDt" required>
                       </div>
                     </div>
                   </div>
